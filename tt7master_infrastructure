@@ -252,7 +252,7 @@
         "StackId": {
           "Ref": "MyStack"
         },
-        "InstanceType": "c3.large",
+        "InstanceType": "t2 .micro",
         "SshKeyName": {
 		  "Ref": "EC2KeyPairName"
 		}
